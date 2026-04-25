@@ -1,0 +1,8 @@
+customer_id,name,phone,city,salary,email,email_valid,phone_clean,phone_valid
+C001,Sam Kumar,9876543210,Chennai,45000,sam@gmail.com,True,9876543210,True
+C002,Priya Sharma,98765-43211,Mumbai,72000,priya@yahoo.com,True,9876543211,True
+C003,Raj Patel,+91 9876543212,Delhi,58000,raj.patel@gmail.com,True,9876543212,True
+C004,Anita Singh,987654321,Bangalore,91000,anita@,False,987654321,False
+C005,Kiran Rao,9876543214,Hyderabad,63000,kiran@company.com,True,9876543214,True
+C006,Meera Nair,98765 43215,Chennai,85000,meera@gmail.com,True,9876543215,True
+C007,Arjun Das,9876543216,Mumbai,77000,arjun@company.com,True,9876543216,True
